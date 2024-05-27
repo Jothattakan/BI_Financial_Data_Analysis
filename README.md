@@ -1,4 +1,5 @@
 # BI Financial Dataset Analysis
+The scope of this financial dataset BI analysis involves using data to gain insights into various aspects of financial operations. It includes monitoring performance, managing risks, optimising investments, understanding customer behaviour, ensuring compliance, improving operational efficiency, and informing strategic decision-making. Through tools like data visualisation iit facilitates informed decision-making, leading to better financial outcomes for organisations. 
 
 # **Steps Involved In Power Bi Analysis**
 1) Data Integration.
@@ -18,3 +19,6 @@
 - *Diagnostic Analytics:* Analyse data to understand why something happened.
 - *Predictive Analytics:* Use machine learning models to predict future trends.
 - *Prescriptive Analytics:* Suggest actions to benefit from predictions and trends.
+
+#   Key Obsevations
+
