@@ -21,4 +21,9 @@ The scope of this financial dataset BI analysis involves using data to gain insi
 - *Prescriptive Analytics:* Suggest actions to benefit from predictions and trends.
 
 #   Key Obsevations
+- By analysing the visuals we come to know that the product Paseo is the most sold and profitable product with 33M total sales and 4.8M total profit.
+- USA is the largest market with 25M total sales followed by Canada, France, Germany, Mexico.
+- France contributed the maximum profit with 22.38% of total profit.
+- From Q3 to Q4 the sale of the product Paseo, VTT, Velo, Amarilla, Montana, Carretera have drastically increased. 
+- From Q3 TO Q4 the sales of the product Montana decreased.
 
